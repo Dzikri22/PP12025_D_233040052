@@ -1,8 +1,8 @@
 package pertemuan3;
 
 public class node { 
-	private int data;
-	private node next;
+	int data;
+	node next;
 	
 	//inisialisasi Node
 	public node (int data) {
